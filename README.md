@@ -14,6 +14,9 @@ DenseNet169 Integration: The project leverages the DenseNet169 model pre-trained
 DenseNet201 Integration: Additionally, the DenseNet201 model pre-trained on ImageNet is employed for feature extraction, contributing to the model's overall performance.
 
 ## Sample output:
-
+<img src= "https://github.com/amolkerkar/Face-emotion-detection/blob/main/src/happy.png" width="600" height="400">
+<img src= "https://github.com/amolkerkar/Face-emotion-detection/blob/main/src/sadness.png" width="600" height="400">
+<img src= "https://github.com/amolkerkar/Face-emotion-detection/blob/main/src/surprise.png" width="600" height="400">
+<img src= "https://github.com/amolkerkar/Face-emotion-detection/blob/main/src/neutral.png" width="600" height="400">
 
 
